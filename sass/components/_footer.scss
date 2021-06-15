@@ -1,0 +1,11 @@
+.footer {
+    background-color: #2F303A;
+    .address__container {
+        padding: 0 0;
+    }
+    .footer__sections {
+        display: flex;
+        align-items: baseline;
+        padding: 60px 15px;
+    }
+}
